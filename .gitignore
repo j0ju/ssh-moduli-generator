@@ -1,0 +1,6 @@
+*.candidates
+*.moduli
+*.part
+
+# vim
+*.sw?
